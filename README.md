@@ -11,4 +11,3 @@ Collection of some Practice Questions:
 4. https://devinterview.io/blog/python-ml-interview-questions
 5. https://devinterview.io/blog/svm-interview-questions
 6. https://devinterview.io/blog/random-forest-interview-questions
-7. https://devinterview.io/blog/naive-bayes-interview-questions
