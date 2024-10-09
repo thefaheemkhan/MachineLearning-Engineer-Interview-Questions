@@ -7,6 +7,7 @@ A collection of Machine Learning interview Questions
 4. https://www.turing.com/interview-questions/machine-learning
 5. https://www.datainterview.com/blog/machine-learning-interview-guide
 6. https://github.com/khangich/machine-learning-interview
+7. https://towardsdatascience.com/preparing-for-a-machine-learning-interview-introduction-586aff3f8c4e
 
 Collection of some Practice Questions:
 1. https://huyenchip.com/ml-interviews-book/
