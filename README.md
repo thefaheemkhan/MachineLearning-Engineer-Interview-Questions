@@ -3,6 +3,7 @@ A collection of Machine Learning interview Questions
 
 1. https://huyenchip.com/ml-interviews-book/
 2. https://github.com/topics/machine-learning-interview-questions
+3. https://www.geeksforgeeks.org/machine-learning-interview-questions/
 
 Collection of some Practice Questions:
 1. https://huyenchip.com/ml-interviews-book/
